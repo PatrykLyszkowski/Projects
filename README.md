@@ -10,9 +10,11 @@ The purpose of this repository is to:
 
 ## Repository Structure
 
-- `Power Platform/` – projects built with Power Apps, Power Automate, SharePoint, and Power BI  
-- (future) `Power BI/` – dashboards and reports  
-- (future) Python/SQL – examples of using Python and SQL to extend automation and analytics  
+- `Power Platform/` – projects built with tools available in Microsoft 365 (Power Apps, Power Automate, SharePoint, Power BI, etc.)  
+- (future) `Power BI/` – dashboards and analytical reports  
+
+> Note: Some projects also integrate SQL and Python, but they are not separate categories — they are used as complementary technologies within automation and analytics solutions.
+
 
 ## Projects
 
@@ -28,12 +30,13 @@ Celem repozytorium jest:
 - dokumentowanie moich projektów i rozwiązań,
 - dzielenie się wiedzą i dobrymi praktykami,
 - prezentacja umiejętności w obszarze automatyzacji, analityki i integracji narzędzi.
-
 ## Struktura repozytorium
 
-- `Power Platform/` – projekty stworzone z wykorzystaniem Power Apps, Power Automate, SharePoint i Power BI  
-- (w przyszłości) `Power BI/` – dashboardy i raporty  
-- (w przyszłości) Python/SQL – przykłady wykorzystania Pythona i SQL do automatyzacji i analizy danych  
+- `Power Platform/` – projekty stworzone z wykorzystaniem narzędzi dostępnych w Microsoft 365 (Power Apps, Power Automate, SharePoint, Power BI itd.)  
+- (w przyszłości) `Power BI/` – dashboardy i raporty analityczne  
+
+> Uwaga: Niektóre projekty wykorzystują SQL i Pythona jako technologie wspierające rozwiązania w zakresie automatyzacji i analiz, ale nie są to osobne kategorie.
+
 
 ## Projekty
 
