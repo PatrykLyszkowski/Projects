@@ -22,7 +22,7 @@ The purpose of this repository is to:
 
 ## PL Polski
 
-# Projects
+# Projekty
 
 To repozytorium zawiera różne projekty związane z **automatyzacją procesów, analizą danych oraz rozwiązaniami opartymi o Microsoft Power Platform, Power BI i inne technologie**.
 
