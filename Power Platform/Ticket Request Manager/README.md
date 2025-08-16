@@ -69,3 +69,23 @@ Projekt łączy **Power Apps**, **SharePoint**, **Power Automate** i **Power BI*
 - Historia zmian i komentarze.
 - Wersja oparta na Dataverse.
 - Integracja AI do kategoryzacji zgłoszeń.
+
+## Screenshots
+
+### SharePoint List
+![SharePoint List](screenshots/1_sharepoint_list.png)
+
+### Power Apps - Main Screen
+![Power Apps Main](screenshots/2_powerapps_main.png)
+
+### Power Apps - Form
+![Power Apps Form](screenshots/3_powerapps_form.png)
+
+### Power BI - KPI Report
+![Power BI KPI](screenshots/4_powerbi_kpi.png)
+
+### Power Automate - New Request Flow
+![Flow New Request](screenshots/5_flow_new_request.png)
+
+### Power Automate - Completed Flow
+![Flow Completed](screenshots/6_flow_completed.png)
