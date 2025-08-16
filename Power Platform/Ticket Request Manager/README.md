@@ -1,4 +1,4 @@
-# 🎫 Ticket Request Manager
+# Ticket Request Manager
 
 ## 🇬🇧 English
 
