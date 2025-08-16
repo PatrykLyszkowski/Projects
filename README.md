@@ -1,4 +1,4 @@
-----------------------------------------------------------------------GB------------------------------------------------------------------------
+#----------------------------------------------------------------------GB------------------------------------------------------------------------
 # Projects
 
 This repository contains various projects related to **process automation, data analysis, and solutions built with Microsoft Power Platform, Power BI, and other technologies**.
@@ -18,7 +18,7 @@ The purpose of this repository is to:
 
 - [Ticket Request Manager](./Power%20Platform/Ticket%20Request%20Manager) – a Power Platform–based solution for managing requests (Power Apps form, SharePoint list, Power Automate flows, Power BI dashboard).
 
-----------------------------------------------------------------------PL------------------------------------------------------------------------
+#----------------------------------------------------------------------PL------------------------------------------------------------------------
 
 # Projects
 
