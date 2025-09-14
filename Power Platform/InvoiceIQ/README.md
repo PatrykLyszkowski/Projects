@@ -37,7 +37,7 @@ InvoiceIQ integrates with **Power Automate** and **AI Builder**:
 
 ## Documentation
 
-- [Full documentation (PDF)](./docs/InvoiceIQ_Documentation_ENG.pdf)  
+- [Full documentation (PDF)](./docs/InvoiceIQ_Documentation_EN.pdf)  
 - [Process diagram (PNG)](./assets/diagram.png)  
 
 ---
