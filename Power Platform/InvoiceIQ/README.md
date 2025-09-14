@@ -1,4 +1,4 @@
-ENG
+## 🇬🇧 English
 # InvoiceIQ
 
 **InvoiceIQ** is a Power Apps application that streamlines the entire invoice management process.  
@@ -56,7 +56,7 @@ InvoiceIQ integrates with **Power Automate** and **AI Builder**:
 - **v1.0** – First release: Check Invoices, Kanban, Payments, OCR automation.  
 - Next: Reports + Admin Panel.  
 
-PL
+## PL Polski
 
 # InvoiceIQ
 
