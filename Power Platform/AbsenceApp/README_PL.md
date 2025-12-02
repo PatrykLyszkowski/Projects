@@ -135,8 +135,10 @@ Kompletna dokumentacja techniczna zawierająca:
 
 **Patryk Łyszkowski**
 
-https://www.linkedin.com/in/patryk-%C5%82yszkowski/ 
+https://www.linkedin.com/in/patryk-%C5%82yszkowski/
+
 patryk.lyszkowski@gmail.com
+
 https://github.com/PatrykLyszkowski/Projects/tree/main
 
 ---
@@ -162,3 +164,4 @@ Ostatnia aktualizacja: Grudzień 2024
 ---
 
 Uwaga: To jest projekt portfolio demonstrujący możliwości Power Platform na poziomie enterprise. Rozwiązanie jest gotowe do wdrożenia produkcyjnego i skalowalne dla rzeczywistych zastosowań.
+
