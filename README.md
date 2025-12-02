@@ -10,18 +10,21 @@ The purpose of this repository is to:
 
 ## Repository Structure
 
-- `Power Platform/` – projects built with tools available in Microsoft 365 (Power Apps, Power Automate, SharePoint, Power BI, etc.)  
-- (future) `Power BI/` – dashboards and analytical reports  
+- `Power Platform/` – projects built with tools available in Microsoft 365 (Power Apps, Power Automate, SharePoint, Power BI, etc.)
+- (future) `Power BI/` – dashboards and analytical reports
 
 > Note: Some projects also integrate SQL and Python, but they are not separate categories — they are used as complementary technologies within automation and analytics solutions.
 
-
 ## Projects
 
+- [AbsenceApp](./Power%20Platform/AbsenceApp) – HR leave management system automating employee absence requests using Power Apps (Canvas + Model-Driven), Dataverse, Power Automate workflows and Azure AD integration with role-based security.
+- [InvoiceIQ](./Power%20Platform/InvoiceIQ) – invoice automation system using AI to extract data from incoming emails, route them to validation in Canvas App and automate approvals using Power Automate.
 - [Ticket Request Manager](./Power%20Platform/Ticket%20Request%20Manager) – a Power Platform–based solution for managing requests (Power Apps form, SharePoint list, Power Automate flows, Power BI dashboard).
 
-## PL Polski
 
+---
+
+## 🇵🇱 Polski
 # Projekty
 
 To repozytorium zawiera różne projekty związane z **automatyzacją procesów, analizą danych oraz rozwiązaniami opartymi o Microsoft Power Platform, Power BI i inne technologie**.
@@ -30,14 +33,16 @@ Celem repozytorium jest:
 - dokumentowanie moich projektów i rozwiązań,
 - dzielenie się wiedzą i dobrymi praktykami,
 - prezentacja umiejętności w obszarze automatyzacji, analityki i integracji narzędzi.
+
 ## Struktura repozytorium
 
-- `Power Platform/` – projekty stworzone z wykorzystaniem narzędzi dostępnych w Microsoft 365 (Power Apps, Power Automate, SharePoint, Power BI itd.)  
-- (w przyszłości) `Power BI/` – dashboardy i raporty analityczne  
+- `Power Platform/` – projekty stworzone z wykorzystaniem narzędzi dostępnych w Microsoft 365 (Power Apps, Power Automate, SharePoint, Power BI itd.)
+- (w przyszłości) `Power BI/` – dashboardy i raporty analityczne
 
-> Uwaga: Niektóre projekty wykorzystują SQL i Pythona jako technologie wspierające rozwiązania w zakresie automatyzacji i analiz, ale nie są to osobne kategorie.
-
+> Uwaga: Niektóre projekty wykorzystują SQL i Pythona jako technologie wspierające automatykę i analizy — nie stanowią osobnej kategorii.
 
 ## Projekty
 
+- [AbsenceApp](./Power%20Platform/AbsenceApp) – system zarządzania nieobecnościami automatyzujący składanie i zatwierdzanie wniosków urlopowych (Power Apps Canvas + Model-Driven, Dataverse, przepływy Power Automate, integracja z Azure AD, RBAC).
+- [InvoiceIQ](./Power%20Platform/InvoiceIQ) – system automatyzacji faktur z wykorzystaniem AI; odczyt faktur z emaila, ekstrakcja danych do aplikacji Canvas i automatyzacja zatwierdzania.
 - [Ticket Request Manager](./Power%20Platform/Ticket%20Request%20Manager) – rozwiązanie oparte na Power Platform do zarządzania ticketami (formularz Power Apps, lista SharePoint, przepływy Power Automate, dashboard Power BI).
