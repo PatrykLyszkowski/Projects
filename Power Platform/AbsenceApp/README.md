@@ -135,8 +135,10 @@ Complete technical documentation including:
 
 **Patryk Łyszkowski**
 
-https://www.linkedin.com/in/patryk-%C5%82yszkowski/ 
+https://www.linkedin.com/in/patryk-%C5%82yszkowski/
+
 patryk.lyszkowski@gmail.com
+
 https://github.com/PatrykLyszkowski/Projects/tree/main
 
 ---
@@ -162,3 +164,4 @@ Last Updated: December 2024
 ---
 
 Note: This is a portfolio project demonstrating enterprise-level Power Platform capabilities. The solution is production-ready and scalable for real-world deployment.
+
