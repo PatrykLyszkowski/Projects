@@ -13,8 +13,6 @@ The purpose of this repository is to:
 - `Power Platform/` – projects built with tools available in Microsoft 365 (Power Apps, Power Automate, SharePoint, Power BI, etc.)
 - (future) `Power BI/` – dashboards and analytical reports
 
-> Note: Some projects also integrate SQL and Python, but they are not separate categories — they are used as complementary technologies within automation and analytics solutions.
-
 ## Projects
 
 - [AbsenceApp](./Power%20Platform/AbsenceApp) – HR leave management system automating employee absence requests using Power Apps (Canvas + Model-Driven), Dataverse, Power Automate workflows and Azure AD integration with role-based security.
@@ -38,8 +36,6 @@ Celem repozytorium jest:
 
 - `Power Platform/` – projekty stworzone z wykorzystaniem narzędzi dostępnych w Microsoft 365 (Power Apps, Power Automate, SharePoint, Power BI itd.)
 - (w przyszłości) `Power BI/` – dashboardy i raporty analityczne
-
-> Uwaga: Niektóre projekty wykorzystują SQL i Pythona jako technologie wspierające automatykę i analizy — nie stanowią osobnej kategorii.
 
 ## Projekty
 
