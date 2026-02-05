@@ -3,7 +3,7 @@
 > **Enterprise Material Order Management Solution** built on Microsoft Power Platform  
 > *Automating procurement workflows from request to fulfillment*
 
-[Wersja polska](README.pl.md) | [Download Full Documentation (PDF)](https://github.com/PatrykLyszkowski/Projects/PowerPlatform/Material-Order/docs/Material_Order_Documentation_EN.pdf)
+[Wersja polska](README.pl.md) | [Download Full Documentation (PDF)](https://github.com/PatrykLyszkowski/Projects/tree/main/Power%20Platform/Material-Order/docs/Material_Order_Documentation_EN.pdf)
 
 ---
 
@@ -226,5 +226,6 @@ Power Platform Developer
 
 
 *Built with Microsoft Power Platform • Designed for Enterprise Scale*
+
 
 
