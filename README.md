@@ -21,10 +21,10 @@ This repository showcases enterprise-grade solutions built with **Microsoft Powe
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[Material Order](./Power%20Platform/Material-Order)** | Enterprise procurement management with automated approval workflows and Teams integration | Canvas App, Dataverse, Power Automate, Adaptive Cards | ✅ Production |
-| **[AbsenceApp](./Power%20Platform/AbsenceApp)** | HR leave management system with dual-app architecture | Canvas + Model-Driven, Dataverse, Azure AD | ✅ Production |
-| **[InvoiceIQ](./Power%20Platform/InvoiceIQ)** | AI-powered invoice automation with email processing | AI Builder, Power Automate, Canvas App | ✅ Production |
-| **[Ticket Request Manager](./Power%20Platform/Ticket%20Request%20Manager)** | Service desk solution with analytics dashboard | Power Apps, SharePoint, Power BI | ✅ Production |
+| **[Material Order](./Power%20Platform/Material-Order)** | Enterprise procurement management with automated approval workflows and Teams integration | Canvas App, Dataverse, Power Automate, Adaptive Cards | Production |
+| **[AbsenceApp](./Power%20Platform/AbsenceApp)** | HR leave management system with dual-app architecture | Canvas + Model-Driven, Dataverse, Azure AD | Production |
+| **[InvoiceIQ](./Power%20Platform/InvoiceIQ)** | AI-powered invoice automation with email processing | AI Builder, Power Automate, Canvas App | Production |
+| **[Ticket Request Manager](./Power%20Platform/Ticket%20Request%20Manager)** | Service desk solution with analytics dashboard | Power Apps, SharePoint, Power BI | Production |
 
 ---
 
