@@ -227,3 +227,4 @@ Power Platform Developer
 
 *Zbudowane na Microsoft Power Platform • Zaprojektowane dla Skali Enterprise*
 
+
