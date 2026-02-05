@@ -3,7 +3,7 @@
 > **Systemowe Rozwiązanie do Zarządzania Zamówieniami Materiałów** zbudowane na Microsoft Power Platform  
 > *Automatyzacja procesów zakupowych od zgłoszenia do realizacji*
 
-[English version](README.md) | [Pełna Dokumentacja Techniczna](https://github.com/PatrykLyszkowski/Projects/raw/main/Power-Platform/Material-Order/docs/Material_Order_Dokumentacja_PL.pdf)
+[English version](README.md) | [Pełna Dokumentacja Techniczna (PDF - wersja PL)](https://github.com/PatrykLyszkowski/Projects/raw/main/Power-Platform/Material-Order/docs/Material_Order_Dokumentacja_PL.pdf)
 
 ---
 
@@ -226,3 +226,4 @@ Power Platform Developer
 
 
 *Zbudowane na Microsoft Power Platform • Zaprojektowane dla Skali Enterprise*
+
