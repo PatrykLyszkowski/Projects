@@ -1,44 +1,63 @@
-## 🇬🇧 English
-# Projects
+# Power Platform Portfolio
 
-This repository contains various projects related to **process automation, data analysis, and solutions built with Microsoft Power Platform, Power BI, and other technologies**.
+> Professional automation solutions and enterprise applications
 
-The purpose of this repository is to:
-- document my projects and solutions,
-- share knowledge and best practices,
-- showcase my skills in automation, analytics, and tool integration.
-
-## Repository Structure
-
-- `Power Platform/` – projects built with tools available in Microsoft 365 (Power Apps, Power Automate, SharePoint, Power BI, etc.)
-- (future) `Power BI/` – dashboards and analytical reports
-
-## Projects
-
-- [AbsenceApp](./Power%20Platform/AbsenceApp) – HR leave management system automating employee absence requests using Power Apps (Canvas + Model-Driven), Dataverse, Power Automate workflows and Azure AD integration with role-based security.
-- [InvoiceIQ](./Power%20Platform/InvoiceIQ) – invoice automation system using AI to extract data from incoming emails, route them to validation in Canvas App and automate approvals using Power Automate.
-- [Ticket Request Manager](./Power%20Platform/Ticket%20Request%20Manager) – a Power Platform–based solution for managing requests (Power Apps form, SharePoint list, Power Automate flows, Power BI dashboard).
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/patryk-lyszkowski)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/PatrykLyszkowski)
 
 ---
 
-## 🇵🇱 Polski
-# Projekty
+## About This Repository
 
-To repozytorium zawiera różne projekty związane z **automatyzacją procesów, analizą danych oraz rozwiązaniami opartymi o Microsoft Power Platform, Power BI i inne technologie**.
+This repository showcases enterprise-grade solutions built with **Microsoft Power Platform**, demonstrating:
+- Advanced PowerFX patterns and performance optimization
+- Complex workflow automation and approval processes
+- Integration with Microsoft 365 ecosystem (Teams, SharePoint, Azure AD)
+- Role-based security and data access control
 
-Celem repozytorium jest:
-- dokumentowanie moich projektów i rozwiązań,
-- dzielenie się wiedzą i dobrymi praktykami,
-- prezentacja umiejętności w obszarze automatyzacji, analityki i integracji narzędzi.
+---
 
-## Struktura repozytorium
+## Featured Projects
 
-- `Power Platform/` – projekty stworzone z wykorzystaniem narzędzi dostępnych w Microsoft 365 (Power Apps, Power Automate, SharePoint, Power BI itd.)
-- (w przyszłości) `Power BI/` – dashboardy i raporty analityczne
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **[Material Order](./Power%20Platform/Material-Order)** | Enterprise procurement management with automated approval workflows and Teams integration | Canvas App, Dataverse, Power Automate, Adaptive Cards | ✅ Production |
+| **[AbsenceApp](./Power%20Platform/AbsenceApp)** | HR leave management system with dual-app architecture | Canvas + Model-Driven, Dataverse, Azure AD | ✅ Production |
+| **[InvoiceIQ](./Power%20Platform/InvoiceIQ)** | AI-powered invoice automation with email processing | AI Builder, Power Automate, Canvas App | ✅ Production |
+| **[Ticket Request Manager](./Power%20Platform/Ticket%20Request%20Manager)** | Service desk solution with analytics dashboard | Power Apps, SharePoint, Power BI | ✅ Production |
 
-## Projekty
+---
 
-- [AbsenceApp](./Power%20Platform/AbsenceApp) – system zarządzania nieobecnościami automatyzujący składanie i zatwierdzanie wniosków urlopowych (Power Apps Canvas + Model-Driven, Dataverse, przepływy Power Automate, integracja z Azure AD, RBAC).
-- [InvoiceIQ](./Power%20Platform/InvoiceIQ) – system automatyzacji faktur z wykorzystaniem AI; odczyt faktur z emaila, ekstrakcja danych do aplikacji Canvas i automatyzacja zatwierdzania.
-- [Ticket Request Manager](./Power%20Platform/Ticket%20Request%20Manager) – rozwiązanie oparte na Power Platform do zarządzania ticketami (formularz Power Apps, lista SharePoint, przepływy Power Automate, dashboard Power BI).
+## Technical Capabilities Demonstrated
+
+### Power Apps Development
+- Advanced Canvas App architecture with 30+ global variables
+- Model-Driven Apps with custom business logic
+- Responsive design for Teams integration
+- Theme systems (light/dark mode)
+
+### Power Automate
+- Complex approval workflows with conditional routing
+- Adaptive Card construction and action handling
+- Error handling and retry patterns
+- Dataverse triggers and bulk operations
+
+### Dataverse & Data Modeling
+- Relational database design with 1:N relationships
+- Choice columns and enum management
+- Row-level security implementation
+- Cascade delete rules and data integrity
+
+### PowerFX
+- Delegation-aware filtering patterns
+- Collection manipulation and ForAll operations
+- Type-safe enum conversion
+- Performance optimization techniques
+
+---
+
+## Contact
+
+**Patryk Lyszkowski** – Power Platform Developer
+
+Interested in collaboration or consulting? Connect via [LinkedIn](https://linkedin.com/in/patryk-lyszkowski)
