@@ -1,0 +1,9 @@
+dane/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+saldo-ui-*/
+saldo-form-*/
+tmp*/
